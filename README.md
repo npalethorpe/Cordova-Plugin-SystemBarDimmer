@@ -1,5 +1,5 @@
 # Cordova System Bar Dimmer Plugin
-====================
+
 
 ## Overview
 This is a very simple little plugin built for Cordova Android to 'dim' the system bars.
@@ -19,19 +19,19 @@ cordova plugin add cordova-plugin-systembardimmer
 To use the plugin (after installing) simply call one of the following:
 
 To dim the system bars:
-'''
+```
 systembardimmer.dim(function(e){
   // Successfully Dimmed
 }, function(e){
   // Failed to Dim
 });
-'''
+```
 
 To reset back to normal:
-'''
+```
 systembardimmer.reset(function(e){
   // Successfully Reset
 }, function(e){
   // Failed to Reset
 });
-'''
+```
