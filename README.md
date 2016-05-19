@@ -39,7 +39,7 @@ systembardimmer.reset(function(e){
 });
 ```
 
-###### Note:
+## Notes:
 It is possibly worth mentioning that if you are building a Cordova project to cover multiple OS's rather than just Android (Which is probably the case otherwise you wouldn't be using Cordova!) then you'll have to stick a OS check around this function to make sure it is only run for Android devices. Something like the below should work ok:
 ```
 if (device.platform.toLowerCase() == "android"){
