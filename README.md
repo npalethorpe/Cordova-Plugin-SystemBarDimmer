@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Cordova System Bar Dimmer Plugin
+#Cordova System Bar Dimmer Plugin
 ====================
 
 # Overview #
