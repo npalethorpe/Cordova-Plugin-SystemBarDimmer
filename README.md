@@ -10,9 +10,9 @@ When I say 'dim' (a term used by Android) I mean to say that the on screen detai
 
 ## Install plugin
 Installing the plugin can be done by using the below cordova cli command from a terminal
-'''
+```
 cordova plugin add cordova-plugin-systembardimmer
-'''
+```
 
 
 ## How to use
