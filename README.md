@@ -13,7 +13,10 @@ Installing the plugin can be done by using the below cordova cli command from a 
 ```
 cordova plugin add cordova-plugin-systembardimmer
 ```
-
+Or
+```
+cordova plugin add https://github.com/npalethorpe/Cordova-Plugin-SystemBarDimmer
+```
 
 ## How to use
 To use the plugin (after installing) simply call one of the following:
