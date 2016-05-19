@@ -6,12 +6,8 @@
   <name>SystemBarDimmer</name>
   <description>Cordova plugin for Android to dim the system bars</description>
   <author>Neil Palethorpe</author>
-<<<<<<< HEAD
-  <keywords>plugin,cordova,system,bar,neil,palethorpe,navigation,dim,android</keywords>
-=======
   <keywords>ecosystem:cordova,cordova-android,plugin,cordova,system,bar,neil,palethorpe,navigation,dim,android</keywords>
->>>>>>> babfe9ccb3f486754c3346ef98da75aad545a3e9
-
+  
   <engines>
     <engine name="cordova" version=">=3.4.0"/>
   </engines>
