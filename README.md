@@ -51,3 +51,6 @@ if (device.platform.toLowerCase() == "android"){
 }
 ```
 The above code may (I haven't checked) require the device plugin to be installed: cordova-plugin-device
+
+
+Another Note: I have noticed that if I include an alert on the response that comes back from success/fail - this causes the system bars to reset. So if you think the plugin isn't working and you have an alert within the success function, comment it out or remove it and try again. 
